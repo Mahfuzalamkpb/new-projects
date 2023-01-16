@@ -1,0 +1,147 @@
+/*top section*/
+        .aa{
+            width: 1920px;
+            height: 1322px;
+            background: #FF900E1A;
+        }
+        .aadiv{display:contents;
+            height: 225px;
+            width: 862px;
+            left: 529px;
+            top: 205px;
+            border: 5px;;}
+        .aah1{
+            font-family:'Times New Roman', Times, serif;
+            font: bold;
+            color: black;
+            font-size: 64px;
+            font-weight: 700;
+            line-height: 75px;
+            letter-spacing: 0em;
+            text-align: center;
+            
+
+        }
+       .aapd{display: contents;
+        height: 52px;
+        width: 868px;
+        left: 526px;
+        top: 379px;
+        border-radius:2px;}
+       .aapdd{display: contents;
+             font-size: 30px;
+             display: contents;width: 868px;height: 52px;left: 526px;top: 379px;}
+        .aap{display:contents;
+            position:absolute:'Times New Roman', Times, serif;
+             font-style: normal;
+             font-weight: 400;
+             font-size: 16px;
+             line-height: 26px;
+             text-align: center;
+             color: #131313;}
+        
+       
+
+           .ancor{ position: absolute;display: contents;
+            width: 131px;height: 23px;left: 895px;top: 484px;font-family: 'Work Sans';font-style: normal;font-weight: 600;font-size: 20px;line-height: 23px;text-align: center; }
+           
+           .aaimg{ position:absolute; width: 1440px; height: 700px; left: 240px; top: 577px; background: url(group-three-modern-architects.jpg);border-radius: 8px;}
+            
+
+/*--secend img section--*/
+
+        .bb{display: contents
+            width: 1920px;
+            height: 1322px;
+            background:white;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+           }
+
+        .bbimg{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            grid-row-gap:2px;
+            position: absolute;}
+            
+        .bbimgtex{height: 303px;
+                width: 537px;
+                left: 1082px;
+                top: 1610px;
+                border-radius: 8px;}
+            
+            
+         .bbimgtexd{height: 105.65131378173828px;
+            width: 468px;
+            left: 1085px;
+            top: 1610px;
+            border-radius: nullpx;
+            }
+        .bbimgtexh{font-family: Work Sans;
+            font-size: 45px;
+            font-weight: 500;
+            line-height: 53px;
+            letter-spacing: 0em;
+            text-align: left;
+            
+            font-family: Work Sans;
+            font-size: 45px;
+            font-weight: 700;
+            line-height: 53px;
+            letter-spacing: 0em;
+            text-align: left;
+            }
+        .p12{
+            font-family: Work Sans;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 26px;
+            letter-spacing: 0em;
+            text-align: left;
+            }
+         /*--end secend img section--*/   
+         
+         
+         /*-- 3rd paragrap section --*/
+                
+             .cc{
+                width: 1920px;
+                height: 1322px;
+                background: #eeebe81a;
+                  }
+
+         /*-- end 3rd paragrap section --*/  
+         
+         
+         /*-- 4th tab section --*/
+               .dd{
+                width: 1920px;
+                height: 1322px;
+                background: #e07a141a;
+
+               }
+
+         /*-- end 4th tab section --*/
+
+
+
+         /*--    5be logo section --*/
+
+               .eeh2p{
+                width: 1920px;
+                height: 1322px;
+                background: #2fbf661a;
+                        }
+               .eeimg{
+               
+
+               }
+
+         /*--End 5be logo section --*/
+
+
+         /*end div*/
+
+
+
+         /*end end div*/
